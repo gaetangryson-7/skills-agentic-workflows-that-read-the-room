@@ -23,10 +23,12 @@ Source: [GitHub Changelog](https://github.blog/changelog/)
 
 - **Issue types and fields for personal accounts** (Nov 11): structure issues in your own repositories. [Details](https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts)
 - **A more informative GitHub dashboard** (Nov 10): see more of your work at a glance. [Details](https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard)
-- **New pull request overview page, public preview** (Nov 5): a fresh way to scan a pull request. Listed under collaboration tools. [Changelog](https://github.blog/changelog/)
-- **Secret scanning in Actions workflow logs** (Nov 9): secrets leaked in logs can now be detected. [Changelog](https://github.blog/changelog/)
+- **New pull request overview page, public preview** (Nov 5): a fresh way to scan a pull request. [Details](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview)
+- **Secret scanning in Actions workflow logs** (Nov 9): secrets leaked in logs can now be detected. [Details](https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs)
 - **Actions for ARM32 Linux and Windows retirement** (Nov 12): check whether your workflows rely on ARM32 runners. [Details](https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement)
-- **Copilot**: Gemini 4 Carbon ([Nov 10](https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot)) and Claude Fable 5.2 (Nov 9) are now available in GitHub Copilot; Copilot is also now in Xcode's coding assistant (Nov 4).
+- **Copilot**: Gemini 4 Carbon ([Nov 10](https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot)) and [Claude Fable 5.2](https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot) (Nov 9) are now available in GitHub Copilot; Copilot is also now in Xcode's coding assistant ([Nov 4](https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant)).
+- **`pull_request_target` blocked by default** (Nov 2): review workflows that use this trigger before the December change. [Details](https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2)
+- **Dependabot alerts will pause on inactive repositories** (Nov 10): [Details](https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories)
 
 ### GitHub Blog highlights
 
@@ -34,6 +36,7 @@ Source: [GitHub Blog](https://github.blog/latest/)
 
 - [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
 - [Beyond code generation: A developer's guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
+- [Octoverse: commits and pushes reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
 - [GitHub Universe 2026: Evolving every layer of the stack](https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/)
 
 ### Awesome Copilot workflows
