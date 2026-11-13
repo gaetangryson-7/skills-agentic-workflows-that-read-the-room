@@ -6,4 +6,10 @@ export default defineConfig({
     host: true,
     port: 4321,
   },
+  vite: {
+    server: {
+      // Forwarded Codespaces/port-forwarding URLs use these hosts; Vite blocks them otherwise.
+      allowedHosts: ['.app.github.dev', '.github.dev'],
+    },
+  },
 });
